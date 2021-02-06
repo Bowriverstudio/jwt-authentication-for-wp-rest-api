@@ -12,7 +12,7 @@
  * @since             1.0.0
  *
  * @wordpress-plugin
- * Plugin Name:       JWT Authentication for WP-API
+ * Plugin Name:       JWT Authentication for WP-API - BRS
  * Plugin URI:        https://enriquechavez.co
  * Description:       Extends the WP REST API using JSON Web Tokens Authentication as an authentication method.
  * Version:           1.2.6
